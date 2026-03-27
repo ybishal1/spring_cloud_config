@@ -1,3 +1,7 @@
+spring:
+  application:
+    name: transaction-services
+    
 server:
   port: 8082  
 
